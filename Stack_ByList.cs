@@ -20,7 +20,11 @@ namespace ConsoleApp1
         }
         public int Pop()
         {
+<<<<<<< HEAD
             int head = Top();
+=======
+            int first = Top();
+>>>>>>> c7b44cc2d91eb3fa81b182ec3971e8088b7b9a8c
             list.PopFront();
             return tmp;
         }
