@@ -21,7 +21,11 @@ namespace ConsoleApp1
         public int Pop()
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             int st = Top();
+=======
+            int head = Top();
+>>>>>>> 3b9e2eb6487f40c0712ddc7bf811b595ba999cf0
 =======
             int first = Top();
 >>>>>>> c7b44cc2d91eb3fa81b182ec3971e8088b7b9a8c
