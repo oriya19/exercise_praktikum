@@ -1,5 +1,5 @@
 
  # My name is:
-   ruty sason
+   oriya shraga
    ```cpp
-   string name= "ruty sason"
+   string name= "oriya shraga"
